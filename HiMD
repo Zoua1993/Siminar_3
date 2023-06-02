@@ -27,6 +27,7 @@
 
 ## Журнал изменений
 - Для того, чтобы посмтреть все сделанные изменения в репозитории, используется команда *git log*. Для этого достаточно выполнить команду *git log* в папке с репозиторием
+
 # Ветки в Git
 
 ## Создание ветки
@@ -46,3 +47,24 @@
 ![Картинка](https://mobimg.b-cdn.net/v3/fetch/ac/acc646531bc251665f9dd89b3a1be58f.jpeg?w=1470&r=0.5625)
 # Работа со ссылками
 [Работа с markdown](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/)
+
+Работа с цитатами и списками
+
+> Что то написали
+>> Автор
+
+## Работа со списками
+* Раз
+* раз, раз
+- два
++ три
+---
+# Подсказки написания в гит
+![Подсказка на ртсунке](https://images.golos.today/p/5ShzsKnKF7vqjwxfz8GNQQU7Rv6mDu9Mbhf9YJkPiRW2DV8x5V14t4qN7VRdLiVtnaucTdbJNB3MA99KhAS8SZx6aK4B5iBqjnjEXkYtwm692e32VxVfbyCTLRXPsuzDV2TLvrs4QJjewDqi3JA6xVHG?format=webp&mode=fit)
+
+[Базовый синтаксис написания и форматирования](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+___
+- **Полужирный текст**
+- *Курсивный текст*
+- ***Курсивный полужирный***
